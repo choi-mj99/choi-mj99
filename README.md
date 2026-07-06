@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Myungjin Choi 👋
 
-<!--
-**choi-mj99/choi-mj99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineer interested in networking, Linux, and embedded systems.
+Currently building hands-on projects with Cisco Packet Tracer while expanding my knowledge of networking and system engineering.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Networking
+- Cisco Packet Tracer
+- TCP/IP
+- VLAN
+- DHCP
+- DNS
+- ACL
+
+### Programming
+- C
+- C++
+
+### Embedded
+- Arduino
+- Raspberry Pi
+
+### Operating System
+- Linux
+
+### Tools
+- Git
+- GitHub
