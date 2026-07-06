@@ -11,7 +11,6 @@ Currently building hands-on projects with Cisco Packet Tracer while expanding my
 - VLAN
 - DHCP
 - DNS
-- ACL
 
 ### Programming
 - C
